@@ -95,14 +95,14 @@ export const USER_CONFIG = {
       ]
     },
     {
-      name: "老婆1",
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      horoscopeDate: '',
-      horoscopeDateType: '',
-      openUrl: "https://wangxinleo.cn",
+      name: "休",
+      id: "oS6v15m0YqsgWOIcgoDvK62cPDMk",
+      useTemplateId: "	XIpcbLFre-9enRvyza1sXij6YpV5p3aBB3CZfIG9z5k",
+      province: "江苏",
+      city: "常熟",
+      horoscopeDate: '08-10',
+      horoscopeDateType: '今日',
+      openUrl: "https://baidu.com",
       festivals: [],
       customizedDateList: []
     },
